@@ -1,6 +1,7 @@
 # 🐺 WebHound - Red Team Web Hacking Toolkit
 
 <div align="center">
+  <img src="https://i.redd.it/300pwaalqbg11.jpg" alt="WebHound Cyberpunk Main Banner" width="800"/>
   <img src="https://raw.githubusercontent.com/GamikaSanjana/WebHound/main/assets/webhound_banner.gif" alt="WebHound Cyberpunk Banner" width="800"/>
   <h3>Advanced Penetration Testing for Ethical Hackers</h3>
   <p>Automated reconnaissance, vulnerability scanning, and stealth ops with a cyberpunk edge.</p>
